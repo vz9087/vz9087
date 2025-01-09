@@ -1,5 +1,6 @@
 👋 Hi, I'm Vishal V P!
 💻 Software Developer | BE CSE | Tech Enthusiast
+
 Welcome to my GitHub profile! I'm a passionate software developer with a Bachelor’s degree in Computer Science and Engineering from Jain Institute of Technology, Davangere. I enjoy exploring innovative technologies and building solutions that make an impact.
 
 🚀 About Me -- 
