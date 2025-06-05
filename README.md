@@ -1,29 +1,50 @@
-👋 Hi, I'm Vishal V P!
-💻 Software Developer | BE CSE | Tech Enthusiast
+### 👋 Hi, I'm Vishal V P! 
 
-Welcome to my GitHub profile! I'm a passionate software developer with a Bachelor’s degree in Computer Science and Engineering from Jain Institute of Technology, Davangere. I enjoy exploring innovative technologies and building solutions that make an impact.
+🖥️ **Software Developer** | 🎓 BE CSE | 🌐 Tech Enthusiast
 
-🚀 About Me -- 
+Welcome to my GitHub profile! I'm a passionate software developer with a Bachelor's degree in Computer Science and Engineering from Jain Institute of Technology, Davangere. I enjoy exploring innovative technologies and building solutions that make an impact.
 
-🔭 I’m currently working on enhancing my skills in Power BI, data visualization, and automation.
-🌱 I’m constantly learning new technologies like [list current tech/tools you're learning] to stay ahead in the ever-evolving tech landscape.
-💡 I love solving problems and creating software that combines functionality with simplicity.
-📚 My areas of interest include web development, data analytics, and AI/ML.
-⚡ Fun fact: I’m a lifelong learner and a strong believer in the power of technology to transform the world!
+---
 
-🛠️ Tech Stack -- 
+### 🚀 About Me
 
-Languages: C++, Python, C, HTML, CSS, R, JavaScript. 
-Frameworks/Tools: React, Node.js, Power BI
-Databases: MySQL, MongoDB
-Version Control: Git, GitHub
+🛠️ Currently enhancing my skills in **Power BI**, **data visualization**, and **automation**.
+🌱 Continuously learning tools like `Next.js`, `Tailwind`, `FastAPI`, and `LangChain`.
+💡 I love solving problems with elegant and efficient code.
+📊 Interested in data analytics, web development, and AI/ML.
+🧠 Fun fact: I’m a lifelong learner and tech optimist!
 
-📈 GitHub Stats (In development) 
+---
 
-📫 Connect With Me -- 
+### 🧰 Tech Stack
 
-LinkedIn: https://www.linkedin.com/in/vishal-vp-b12341231
-Email: vishalvpurshan360@gmail.com
-Portfolio: To be added in future. 
+**Languages:** `C++`, `Python`, `C`, `HTML`, `CSS`, `R`, `JavaScript`  
+**Frameworks/Tools:** `React`, `Node.js`, `Power BI`  
+**Databases:** `MySQL`, `MongoDB`  
+**Version Control:** `Git`, `GitHub`
 
-Let’s connect and build something amazing together!
+---
+
+### 📈 GitHub Stats
+
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vz9087&show_icons=true&theme=dark&hide_border=false&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vz9087&layout=compact&theme=dark&hide_border=false)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=vz9087&theme=dark&hide_border=false)](https://git.io/streak-stats)
+
+---
+
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-vp-b12341231)  
+📧 Email: vishalvpurshan360@gmail.com
+
+---
+
+### 🧳 Portfolio
+> Coming Soon!
+
+---
+
+✨ Let’s connect and build something amazing together!
