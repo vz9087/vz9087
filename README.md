@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a Bachelo
 
 ### 🚀 About Me
 
-🛠️ Currently enhancing my skills in **Power BI**, **data visualization**, and **automation**.
+🛠️ Currently enhancing my skills in **Power BI**, **data visualization**, and **automation**. 
 🌱 Continuously learning tools like `Next.js`, `Tailwind`, `FastAPI`, and `LangChain`.
 💡 I love solving problems with elegant and efficient code.
 📊 Interested in data analytics, web development, and AI/ML.
