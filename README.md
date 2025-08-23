@@ -1,12 +1,14 @@
-### 👋 Hi, I'm Vishal V P! 
+# 👋 Hi, I'm Vishal V P! 
 
-🖥️ **Software Developer** | 🎓 BE CSE | 🌐 Tech Enthusiast
+### 🖥️ **Software Developer** 
+### 🎓 BE CSE 
+### 🌐 Tech Enthusiast
 
 Welcome to my GitHub profile! I'm a passionate software developer with a Bachelor's degree in Computer Science and Engineering from Jain Institute of Technology, Davangere. I enjoy exploring innovative technologies and building solutions that make an impact.
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
 🛠️ Currently enhancing my skills in **Power BI**, **data visualization**, and **automation**.  
 🌱 Continuously learning tools like `Next.js`, `Tailwind`, `FastAPI`, and `LangChain`.
@@ -16,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a Bachelo
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 **Languages:** `C++`, `Python`, `C`, `HTML`, `CSS`, `R`, `JavaScript`  
 **Frameworks/Tools:** `React`, `Node.js`, `Power BI`  
@@ -25,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a Bachelo
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 ![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vz9087&show_icons=true&theme=dark&hide_border=false&count_private=true)
 
@@ -35,7 +37,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a Bachelo
 
 ---
 
-### 🔗 Connect With Me
+## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-vp-b12341231)  
 📧 Email: vishalvpurshan360@gmail.com
