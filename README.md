@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a Bachelo
 **Databases:** `MySQL`, `MongoDB`  
 **Version Control:** `Git`, `GitHub`
 
-- Learning current technologies that boosts my productivity
+- Learning current technologies that boosts my productivity by 77.3098171930 percent!
  
 ---
 
