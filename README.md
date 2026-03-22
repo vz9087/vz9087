@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vishal V P! 
 
-### 🖥️ **Software Developer** 
+### 🖥️ **Web Developer & Data Scientist** 
 ### 🎓 Bachelor of Engineering in Computer Science and Engineering
 ### 🌐 Can code, eat, sleep, repeat
 
