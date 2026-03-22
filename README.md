@@ -13,9 +13,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a Bachelo
 - Currently enhancing my skills in **web design**, **data visualization and modelling**, **GenAI and vibe coding** plus **automation techniques**.  
 - Continuously learning tools like `Next.js`, `Tailwind`, `FastAPI`, and `LangChain`.
 - Love solving problems with elegant and efficient code.               
-- Interested in data analytics, web development, and AI/ML.            
+- Interested in data analytics, web development, and AI/ML.
+- I often play games and understand their behavior, pretty much like modifying files or rewriting metadata etc.
+- Student at Databricks Academy and PM Institute.           
 - Fun fact: I’m a lifelong learner and tech optimist!
-- Student at Databricks Academy and PM Institute.
 
 ---
 
