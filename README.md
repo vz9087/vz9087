@@ -1,4 +1,4 @@
-# Hi, I'm Vishal V P! 
+# Hi, I'm Vishal V P
 
 ### **Web Developer & Data Scientist** 
 ### Bachelor of Engineering in Computer Science and Engineering
