@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about building practical software, 
   - Data Analytics
   - Automation
 - Student at **Databricks Academy** and **PM Institute**
-- I enjoy exploring how games work and understanding software behaviour.
+- I enjoy exploring software internals and understanding how applications work behind the scenes.
 - Always learning something new.
 
 ---
