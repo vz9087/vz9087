@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a Bachelo
 
 ## GitHub Stats
 
-![Vishal's GitHub Stats](https://streak-stats.demolab.com/?user=vz9087)](https://git.io/streak-stats)
+[![Vishal's GitHub Stats](https://streak-stats.demolab.com/?user=vz9087)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vz9087&layout=compact&theme=dark&hide_border=false)
 
