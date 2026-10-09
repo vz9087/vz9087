@@ -91,7 +91,7 @@ Here are a few projects I'm proud of:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal%20V%20P-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishal-vp-b12341231)
 
-[![Email](https://img.shields.io/badge/Gmail-vishalvpurshan360%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:vishalvpurshan360@gmail.com)
+[![Email](https://img.shields.io/badge/Email-panzerMauss42%40duck.com-orange?style=for-the-badge&logo=maildotru)](mailto:panzerMauss42@duck.com)
 
 ---
 
