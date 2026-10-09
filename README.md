@@ -1,36 +1,29 @@
-# Hi there, Vishal here
+# Hi, I'm Vishal
 
-### Web Developer | Data Science Enthusiast | Computer Science Student
+**Final-year CSE student · Building practical software · Learning in public**
 
-> *"Can code, eat, sleep, repeat."*
-
-Welcome to my GitHub profile! I'm passionate about building practical software, exploring AI, analyzing data, and continuously learning new technologies.
+> *"Debugging real problems, one commit at a time."*
 
 ---
 
-## About Me
+## Now
 
-- Bachelor of Engineering in Computer Science & Engineering
-- Currently learning:
-  - Next.js
-  - Tailwind CSS
-  - FastAPI
-  - LangChain
-  - Generative AI
-  - Data Visualization & Modelling
-- Interested in:
-  - Web Development
-  - Artificial Intelligence
-  - Machine Learning
-  - Data Analytics
-  - Automation
-- Student at **Databricks Academy** and **PM Institute**
-- I enjoy exploring software internals and understanding how applications work behind the scenes.
-- Always learning something new.
+- Building **ImpersonAI** — AI-powered typosquatting & impersonation defense  
+  _(Python · FastAPI · XGBoost · Chrome MV3)_
+- Going deep on AWS Cloud through hands-on labs
+- Preparing for placements in cloud / data engineering roles
 
 ---
 
-# Tech Stack
+## Focus Areas
+
+- **Full-stack web** — Next.js, Tailwind CSS, FastAPI
+- **Applied ML & GenAI** — XGBoost, LangChain, model evaluation
+- **Cloud & serverless** — AWS Lambda, ECS, CloudFormation
+
+---
+
+## Tech Stack
 
 ### Languages
 
@@ -61,42 +54,46 @@ Welcome to my GitHub profile! I'm passionate about building practical software, 
 
 ---
 
-# GitHub Statistics
+## Featured Projects
 
-![](https://github-readme-stats.vercel.app/api?username=vz9087&show_icons=true&theme=github_dark&rank_icon=github)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vz9087&layout=compact&theme=github_dark)
-[![My GitHub Streak](https://streak-stats.demolab.com?user=vz9087&theme=github-dark-blue)](https://git.io/streak-stats)
+### ImpersonAI — Typosquatting & Impersonation Defense
+A real-time, AI-powered system that detects typosquatting domains and impersonation attacks.  
+Uses 23 lexical features + XGBoost classifier, served via FastAPI, with a Chrome MV3 extension for live protection.  
+**Stack:** Python · FastAPI · XGBoost · Chrome MV3  
+[→ Repo](https://github.com/vz9087/impersonai-biz-mp)
+
+### Carbon Emission Calculator
+A tool to estimate and visualize carbon emissions from everyday activities.  
+**Stack:** Python · Data Visualization  
+[→ Repo](https://github.com/vz9087)
+
+### Multiple Disease Prediction System
+ML-based system for predicting multiple diseases from patient inputs.  
+**Stack:** Python · scikit-learn · Flask  
+[→ Repo](https://github.com/vz9087)
+
+### Hello Cloud Build App
+A minimal cloud-native app deployed through CI/CD pipelines.  
+**Stack:** AWS · CloudFormation · GitHub Actions  
+[→ Repo](https://github.com/vz9087)
 
 ---
 
-# Contribution Graph
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=vz9087&show_icons=true&theme=github_dark&rank_icon=github)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vz9087&layout=compact&theme=github_dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vz9087&theme=github-dark-blue)](https://git.io/streak-stats)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vz9087&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
-# Featured Repositories
-
-Here are a few projects I'm proud of:
-
-- Carbon Emission Calculator
-- Multiple Disease Prediction System
-- Hello Cloud Build App
-- CSE Laboratory Resources
-- Personal Portfolio (In Progress)
-
----
-
-# Connect With Me
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal%20V%20P-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishal-vp-b12341231)
-
 [![Email](https://img.shields.io/badge/Email-panzerMauss42%40duck.com-orange?style=for-the-badge&logo=maildotru)](mailto:panzerMauss42@duck.com)
 
 ---
 
-## Thanks for visiting my profile!
-
-If you like my work, consider starring one of my repositories or connecting with me on LinkedIn.
-
-Happy Coding!
+*Thanks for stopping by. If something here is useful, a star helps.*
